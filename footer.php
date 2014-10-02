@@ -1,5 +1,5 @@
-<div class="navbar-fixed-bottom">
+<div class="navbar-static-bottom">
     <div class="container">
-        <p class="text-muted">LUG@UD 2014 &copy;</p>
+        <p class="text-muted">&copy; LUG@UD 2014</p>
     </div>
 </div>
