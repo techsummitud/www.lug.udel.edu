@@ -12,6 +12,32 @@ body{
     //background-color:#DEDEDE;
 }
 
+.intro-header {
+    padding-top: 200px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
+    padding-bottom: 100px;
+    margin-bottom:20px;
+    text-align: center;
+    color: #f8f8f8;
+    background: url(../img/ud_banner2.jpg) no-repeat center center;
+    background-size: cover;
+}
+
+.intro-wrapper{
+    background-color:black;
+    opacity:0.8;
+}
+
+.intro-message{
+    opacity:1.0;
+}
+
+.banner {
+    padding: 100px 0;
+    color: #f8f8f8;
+    background: url(../img/fedora.png) no-repeat center center;
+    background-size: cover;
+}
+
 .callout{
     //border: 1px solid white;
     opacity: 0.85;
@@ -25,6 +51,10 @@ body{
 .callout:active{
     //border: 1px solid black;
     opacity: 1.0;
+}
+
+.os-gallery-thumb{
+    width:120px;
 }
 
 .callout-description{
@@ -54,4 +84,12 @@ body{
 .col-padded{
     margin-left:15px;
     margin-right:15px;
+}
+
+blockquote{
+    font-size: 12pt;
+}
+
+#main-nav{
+    margin-top:18px;
 }

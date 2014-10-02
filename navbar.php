@@ -1,4 +1,4 @@
-<div class="navbar navbar-default navbar-static">
+<div id="main-nav" class="navbar navbar-default navbar-static">
     <div class="container">
         <div class="navbar-header">
             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
@@ -22,9 +22,13 @@
                         <li><a href="#">Lorem Ipsum</a></li>
                     </ul>
                 </li>
-                <li><a href="#">Mailing List</a></li>
-                <li><a href="#">IRC</a></li>
-                <li><a href="#">Archive</a></li>
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Quick Links <b class="caret"></b></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="#">IRC</a></li>
+                        <li><a href="#">Dunno</a></li>
+                    </ul>
+                </li>
             </ul>
         </div><!--/.nav-collapse -->
     </div>

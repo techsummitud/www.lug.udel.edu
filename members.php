@@ -6,13 +6,24 @@
     </head>
     <body>
         <!-- Nav bar -->
-        <div style="padding-top:18px;"></div>
         <div class="container">
             <?php include 'navbar.php'; ?>
             <ol class="breadcrumb">
                 <li class=""><a href="/index.php">Home</a></li>
                 <li class="active"><a href="/members.php">Members</a></li>
             </ol>
+
+            <div class="intro-header img-rounded">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-10 col-md-offset-1">
+                            <div class="intro-message">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
             <div class="row">
                 <div class="col-md-12">
                     <div class="panel panel-default">
@@ -62,7 +73,7 @@
                                     <p class="text-center">
                                         Board members have more responsibilities but more power than regular members. You don't have to be in a leadership position to be a board member!
                                         You could work on our server maintenence, be our webmaster, or significantly contribute to the club in some other way to become a board member. 
-																				You can find out more about how to become a board member in our <a href="/about.php">about page</a>.
+                                        You can find out more about how to become a board member in our <a href="/about.php">about page</a>.
                                     </p>
                                 </div>
                             </div>

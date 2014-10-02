@@ -5,21 +5,33 @@
         <title>LUG@UD - Home</title>
     </head>
     <body>
-        <!-- Nav bar -->
-        <div style="padding-top:18px;"></div>
         <div class="container">
             <?php include 'navbar.php'; ?>
             <div class="row">
                 <div class="col-md-12">
                     <ol class="breadcrumb">
-                        <li class="active"><a href="#">Home</a></li>
+                        <li class="active"><a href="/index.php">Home</a></li>
                     </ol>
+
+                    <div class="intro-header img-rounded">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-md-10 col-md-offset-1">
+                                    <div class="intro-message">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
                     <div class="panel panel-default">
                         <div class="panel-body">
-                            <h1 class="text-center"><strong>Linux Users Group (LUG) <small>@UD</small></strong></h1>
                             <div class="row row-padded-md">
                                 <div class="col-md-12">
-                                    <h3><strong>Mission</strong></h3>
+                                    <h1 class="text-center">
+                                        <strong>Linux Users Group (LUG) <small>@UD</small></strong>
+                                    </h1>
+                                    <h3 class="row-padded-lg"><strong>Mission</strong></h3>
                                     <p>
                                         We serve Linux users who live in or around the small state of Delaware, as well as the University of Delaware Newark campus. 
                                     </p>
@@ -41,7 +53,7 @@
                                     </p>
                                 </div>
                             </div>
-                            <div class="row row-padded-md">
+                            <div class="row row-padded-lg">
                                 <div class="col-md-2">
                                     <img class="img img-responsive img-center img-rounded" style="width:200px;" src="assets/img/ltortalking.jpeg">
                                 </div>
@@ -66,16 +78,16 @@
                                 <div class="panel-body">
                                     <div class="row">
                                         <div class="col-md-3">
-                                            <img class="img-center img img-responsive callout" style="width:150px" src="/assets/img/ubuntu.png">
+                                            <img class="img-center img img-responsive callout os-gallery-thumb" src="/assets/img/ubuntu.png">
                                         </div>
                                         <div class="col-md-3">
-                                            <img class="img-center img img-responsive callout" style="width:150px" src="/assets/img/arch.png">
+                                            <img class="img-center img img-responsive callout os-gallery-thumb" src="/assets/img/arch.png">
                                         </div>
                                         <div class="col-md-3">
-                                            <img class="img-center img img-responsive callout" style="width:150px" src="/assets/img/debian.jpg">
+                                            <img class="img-center img img-responsive callout os-gallery-thumb"  src="/assets/img/debian.jpg">
                                         </div>
                                         <div class="col-md-3">
-                                            <img class="img-center img img-responsive callout" style="width:150px" src="/assets/img/fedora.png">
+                                            <img class="img-center img img-responsive callout os-gallery-thumb"  src="/assets/img/fedora.png">
                                         </div>
                                     </div>
                                 </div>
@@ -86,8 +98,6 @@
             </div>
         </div>
         <?php include 'footer.php'; ?>
-
-
         <!-- Bootstrap core JavaScript
         ================================================== -->
         <!-- Placed at the end of the document so the pages load faster -->
