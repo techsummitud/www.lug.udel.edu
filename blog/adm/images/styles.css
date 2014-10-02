@@ -1,0 +1,159 @@
+body {
+	font-family:"Trebuchet MS", Verdana, Arial;
+	font-size:1.0em;
+	margin:0 auto;
+	padding:0;
+}
+p {
+	font-size:0.9em;
+	color:#333333;
+	line-height:1.6em;
+	font-family:Arial, Helvetica, sans-serif;
+}
+h1 {
+	border-bottom:1px solid #dddddd;
+	font-size:1.2em;
+	font-weight:normal;
+	color:#333333;
+	background-repeat:no-repeat;
+	padding-left:20px;
+	background-position:left 2px;
+	font-family:Arial, Helvetica, sans-serif;
+}
+h1.add { background-image:url('../images/wand.png'); }
+h1.edit { background-image:url('../images/wrench.png'); }
+h1.login { background-image:url('../images/lock.png'); }
+h2 {
+	font-size:1.0em;
+	margin:0;
+	padding:0;
+}
+a img {
+	border:none;
+}
+a:focus {
+	outline:none;
+	border:none;
+}
+a {
+	color:#B20002;
+}
+table {
+	font-size:0.75em;
+	width:100%;
+}
+table tr th {
+	background-color:#171717;
+	color:#ffffff;
+	padding:5px 10px;
+	text-align:left;
+}
+table tr td {
+	border-bottom:1px solid #dddddd;
+	padding:5px 10px;
+}
+form p {
+	margin:20px 0;
+}
+label {
+	font-size:0.8em;
+	font-family:'Lucida Sans Unicode','Lucida Grande',verdana,sans-serif;
+	color:#333333;
+}
+input, textarea, select {
+	border:1px solid #dddddd;
+	padding:4px;
+	font-family:"Trebuchet MS", Verdana, Arial;
+	font-size:0.9em;
+	color:#333333;
+	background-image:url('../images/input-bg.png');
+	background-repeat:repeat-x;
+	background-position:bottom left;
+}
+input.button {
+	border:4px solid #800002;
+	border-left-color:#B20002;
+	border-top-color:#B20002;
+	background-image:none;
+	background-color:#CC0003;
+	color:#ffffff;
+}
+span.form-text {
+	font-size:0.8em;
+	padding-top:5px;
+	display:block;
+	color:#999999;
+}
+.clear {
+	clear:both;
+}
+
+div.navigation {
+	background-color:#333333;
+	height:45px;
+	color:#ffffff;
+	margin:0 auto;
+	background-image:url('../images/swlogo.png');
+	background-repeat:no-repeat;
+	background-position:right 5px;
+	padding:5px 0;
+}
+div.navigation div.scriptname {
+	font-size:1.4em;
+	padding:10px;
+	margin:0 auto;
+	width:50%;
+}
+div.navigation ul {
+	list-style-image:none;
+	list-style-position:outside;
+	list-style-type:none;
+	margin:0 0 0 10px;
+	padding:0;
+	text-align:right;
+}
+div.navigation ul li {
+	float:left;
+	margin:0;
+	padding:0;
+}
+div.navigation ul li a {
+	color:#FFFFFF;
+	display:block;
+	text-decoration:underline;
+	font-size:0.85em;
+	padding:15px 15px;
+}
+div.page {
+	padding:10px;
+	margin:0 auto;
+}
+form.login { 
+	width:50%;
+	margin:0 auto;
+	padding:0;
+	text-align:left;
+}
+div.footer {
+	border-top:1px solid #dddddd;
+	padding:5px;
+	margin:0 auto;
+	width:50%;
+}
+div.footer p a {
+	color:#999999;
+}
+div.footer p {
+	font-size:0.8em;
+	text-align:center;
+	color:#999999;
+	margin:0;
+	padding:0;
+}
+span.error-text {
+	color:#ff0000;
+	font-weight:bold;
+	font-size:0.9em;
+	font-family:Geneva, Arial, Helvetica, sans-serif;
+}
+

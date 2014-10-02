@@ -9,8 +9,8 @@
             <a class="navbar-brand" href="/">LUG@UD</a>
         </div>
         <div class="collapse navbar-collapse">
-            <ul class="nav navbar-nav navbar-right">
-                <li></li>
+            <ul class="nav navbar-nav">
+                <li><a href="#">Members</a></li>
                 <li class="dropdown">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown">Projects <b class="caret"></b></a>
                     <ul class="dropdown-menu">
@@ -21,6 +21,10 @@
                         <li><a href="#">Lorem Ipsum</a></li>
                     </ul>
                 </li>
+                <li><a href="#">Services</a></li>
+                <li><a href="#">Mailing List</a></li>
+                <li><a href="#">IRC</a></li>
+                <li><a href="#">Archive</a></li>
             </ul>
         </div><!--/.nav-collapse -->
     </div>

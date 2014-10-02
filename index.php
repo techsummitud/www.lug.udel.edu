@@ -11,10 +11,18 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
+                    <div class="panel panel-default">
+                        <div class="panel-body">
+                            <h1 class="text-center">Welcome</h1>
+                            <img class="img-center img img-responsive" style="width:300px;" src="/assets/img/bwtux.png">
+                            <p>We serve Linux users who live in or around the small state of Delaware, as well as the University of Delaware Newark campus. 
+                                All Linux users are welcome to our meetings and mailing lists regardless of experience or skill. 
+                                Please see below to find out how to come to our meetings.</p>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
-        <div style="padding-top:100px;"></div>
         <?php include 'footer.php'; ?>
 
 

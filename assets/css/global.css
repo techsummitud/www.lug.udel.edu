@@ -1,0 +1,68 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Dec 9, 2013, 6:45:00 PM
+    Author     : Jacob Aimino
+*/
+
+footer a{
+    color:white;
+}
+
+footer .row{
+    margin-top:10px;
+}
+
+body{
+    //background-color:#DEDEDE;
+}
+
+.callout{
+    //border: 1px solid white;
+    opacity: 0.85;
+}
+
+.callout:hover{
+    //border: 1px solid black;
+    opacity: 1.0;
+}
+
+.callout:active{
+    //border: 1px solid black;
+    opacity: 1.0;
+}
+
+.callout-description{
+    margin-top:10px;
+}
+
+.row-padded{
+    margin-top:30px;
+}
+
+.row-padded-small{
+    margin-top: 15px;
+}
+
+.row-padded-large{
+    margin-top:50px;
+}
+
+.row-padded-xl{
+    margin-top:120px;
+}
+
+.project-update{
+    
+}
+
+.img-center{
+    margin: 0 auto;
+}
+
+.event{
+    margin-bottom:60px;
+}
