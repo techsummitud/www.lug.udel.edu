@@ -41,7 +41,7 @@
                             <div class="row" style="margin-top:80px; margin-bottom: 40px;">
                                 <div class="col-md-4">
                                     <img class="img img-responsive img-center callout" src="http://placehold.it/300x250">
-                                    <h3 class="text-center">Someone, <strong>Treasurer</strong></h3>
+                                    <h3 class="text-center">Jay Thakkar, <strong>Treasurer</strong></h3>
                                     <p class="text-center">
                                         The Treasurer keeps track of purchases, organizes our budget, and makes certain people get reimbursed for their time. 
                                         He/She also orders paraphernalia for the group after a design is approved by the members.
@@ -49,7 +49,7 @@
                                 </div>
                                 <div class="col-md-4">
                                     <img class="img img-responsive img-center callout" src="http://placehold.it/300x250">
-                                    <h3 class="text-center">Someone, <strong>Secretary</strong></h3>
+                                    <h3 class="text-center">Ryan Keeley, <strong>Secretary</strong></h3>
                                     <p class="text-center">
                                         The Secretary fulfills the requests for assistance by any of the other previous officers. 
                                         He or she is willing to lend a hand when one is required, 
@@ -58,10 +58,11 @@
                                 </div>
                                 <div class="col-md-4">
                                     <img class="img img-responsive img-center callout" src="http://placehold.it/300x250">
-                                    <h3 class="text-center">Someone, <strong>Webmaster</strong></h3>
+                                    <h3 class="text-center">You, <strong>Board Member</strong></h3>
                                     <p class="text-center">
-                                        The Webmaster keeps the website up to date with the latest meeting information, 
-                                        and adds presentation details such as power points or outlines once the meeting has concluded.
+                                        Board members have more responsibilities but more power than regular members. You don't have to be in a leadership position to be a board member!
+                                        You could work on our server maintenence, be our webmaster, or significantly contribute to the club in some other way to become a board member. 
+																				You can find out more about how to become a board member in our <a href="/about.php">about page</a>.
                                     </p>
                                 </div>
                             </div>
