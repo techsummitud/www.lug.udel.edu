@@ -39,7 +39,7 @@ body{
     margin-top: 15px;
 }
 
-.row-padded-large{
+.row-padded-lg{
     margin-top:50px;
 }
 
@@ -49,4 +49,9 @@ body{
 
 .img-center{
     margin: 0 auto;
+}
+
+.col-padded{
+    margin-left:15px;
+    margin-right:15px;
 }

@@ -6,9 +6,9 @@
     </head>
     <body>
         <!-- Nav bar -->
-        <?php include 'navbar.php'; ?>
         <div style="padding-top:18px;"></div>
         <div class="container">
+            <?php include 'navbar.php'; ?>
             <div class="row">
                 <div class="col-md-12">
                     <ol class="breadcrumb">
@@ -17,8 +17,8 @@
                     <div class="panel panel-default">
                         <div class="panel-body">
                             <h1 class="text-center"><strong>Welcome to LUG@UD</strong></h1>
-                            <div class="row"  style="margin-top:50px; margin:20;">
-                                <div class="col-md-6">
+                            <div class="row row-padded-xl">
+                                <div class="col-md-12">
                                     <h3><strong>Mission</strong></h3>
                                     <p>
                                         We serve Linux users who live in or around the small state of Delaware, as well as the University of Delaware Newark campus. 
@@ -28,7 +28,9 @@
                                         Please see below to find out how to come to our meetings.
                                     </p>
                                 </div>
-                                <div class="col-md-6">
+                            </div>
+                            <div class="row row-padded-xl">
+                                <div class="col-md-12">
                                     <h3><strong>About</strong></h3>
                                     <p>
                                         LUG is a Registered Student Organization of the University of Delaware, and as such, officers are undergraduate and graduate students of UD. 
@@ -39,11 +41,11 @@
                                     </p>
                                 </div>
                             </div>
-                            <div class="row row-padded-large">
-                                <div class="col-md-3">
-                                    <img class="img img-responsive img-center img-rounded" style="width:250px;" src="assets/img/ltortalking.jpeg">
+                            <div class="row row-padded-xl">
+                                <div class="col-md-2">
+                                    <img class="img img-responsive img-center img-rounded" style="width:200px;" src="assets/img/ltortalking.jpeg">
                                 </div>
-                                <div class="col-md-9">
+                                <div class="col-md-10">
                                     <blockquote class="pull-left">
                                         <p>"To kind of explain what Linux is, you have to explain what an operating system is. 
                                             And the thing about an operating system is that you're never ever supposed to see it. 
