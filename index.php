@@ -7,20 +7,33 @@
     <body>
         <!-- Nav bar -->
         <?php include 'navbar.php'; ?>
-        <div style="padding-top:115px;"></div>
+        <div style="padding-top:50px;"></div>
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
                     <div class="panel panel-default">
                         <div class="panel-body">
+                            <div class="row">
+                                <div class="col-md-4">
+                                    <img class="img-center img img-responsive callout" style="width:200px" src="/assets/img/ubuntu.png">
+                                </div>
+                                <div class="col-md-4">
+                                    <img class="img-center img img-responsive callout" style="width:200px" src="/assets/img/arch.png">
+                                </div>
+                                <div class="col-md-4">
+                                    <img class="img-center img img-responsive callout" style="width:200px" src="/assets/img/debian.jpg">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="panel panel-default">
+                        <div class="panel-body">
                             <h1 class="text-center">Welcome</h1>
-                            <img class="img-center img img-responsive" style="width:300px;" src="/assets/img/bwtux.png">
                             <p>We serve Linux users who live in or around the small state of Delaware, as well as the University of Delaware Newark campus. 
                                 All Linux users are welcome to our meetings and mailing lists regardless of experience or skill. 
                                 Please see below to find out how to come to our meetings.</p>
                         </div>
                     </div>
-                    <div class="well well-md">Test</div>
                 </div>
             </div>
         </div>

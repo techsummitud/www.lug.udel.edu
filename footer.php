@@ -1,10 +1,5 @@
-<footer class="navbar-static-bottom">
+<div class="navbar-fixed-bottom">
     <div class="container">
-        <div class="row">
-            <div class="col-md-4">
-                <div class="text-center">
-                </div>
-            </div>
-        </div>
+        <p class="text-muted">LUG@UD 2014 &copy;</p>
     </div>
-</footer>
+</div>
