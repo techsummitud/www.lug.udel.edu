@@ -22,6 +22,26 @@ body{
     background-size: cover;
 }
 
+.intro-header-alt {
+    padding-top: 200px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
+    padding-bottom: 100px;
+    margin-bottom:20px;
+    text-align: center;
+    color: #f8f8f8;
+    background: url(../img/ud_banner.jpg) no-repeat center center;
+    background-size: cover;
+}
+
+.intro-header-alt2 {
+    padding-top: 200px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
+    padding-bottom: 100px;
+    margin-bottom:20px;
+    text-align: center;
+    color: #f8f8f8;
+    background: url(../img/ud_banner2.jpg) no-repeat center center;
+    background-size: cover;
+}
+
 .intro-wrapper{
     background-color:black;
     opacity:0.8;
