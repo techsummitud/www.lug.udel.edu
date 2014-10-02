@@ -20,6 +20,7 @@
                                 Please see below to find out how to come to our meetings.</p>
                         </div>
                     </div>
+                    <div class="well well-md">Test</div>
                 </div>
             </div>
         </div>

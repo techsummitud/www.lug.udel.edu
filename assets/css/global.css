@@ -8,14 +8,6 @@ and open the template in the editor.
     Author     : Jacob Aimino
 */
 
-footer a{
-    color:white;
-}
-
-footer .row{
-    margin-top:10px;
-}
-
 body{
     //background-color:#DEDEDE;
 }
@@ -55,14 +47,6 @@ body{
     margin-top:120px;
 }
 
-.project-update{
-    
-}
-
 .img-center{
     margin: 0 auto;
-}
-
-.event{
-    margin-bottom:60px;
 }
