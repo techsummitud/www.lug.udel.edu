@@ -7,14 +7,24 @@
     <body>
         <!-- Nav bar -->
         <?php include 'navbar.php'; ?>
-        <div style="padding-top:50px;"></div>
+        <div style="padding-top:40px;"></div>
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
                     <div class="panel panel-default">
                         <div class="panel-body">
-                            <h1 class="text-center">Organizational Overview</h1>
-                            <div style="margin-top: 30px;" class="row">
+                            <div class="row">
+                                <h1 class="text-center page-header" style="margin-bottom: 30px;"><strong>Board Members</strong></h1>
+                                <div class="col-md-4 col-md-offset-2">
+                                    <img class="img img-responsive img-center" src="http://placehold.it/300x250">
+                                    <h3 class="text-center">Test</h3>
+                                </div>
+                                <div class="col-md-4">
+                                    <img class="img img-responsive img-center" src="http://placehold.it/300x250">
+                                    <h3 class="text-center">Test</h3>
+                                </div>
+                            </div>
+                            <div class="row" style="margin-top:30px">
                                 <div class="col-md-4 col-md-offset-2">
                                     <img class="img img-responsive img-center" src="http://placehold.it/300x250">
                                     <h3 class="text-center">Test</h3>
