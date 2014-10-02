@@ -16,8 +16,8 @@
                     </ol>
                     <div class="panel panel-default">
                         <div class="panel-body">
-                            <h1 class="text-center"><strong>Welcome to LUG@UD</strong></h1>
-                            <div class="row row-padded-xl">
+                            <h1 class="text-center"><strong>Linux Users Group (LUG) <small>@UD</small></strong></h1>
+                            <div class="row row-padded-md">
                                 <div class="col-md-12">
                                     <h3><strong>Mission</strong></h3>
                                     <p>
@@ -29,7 +29,7 @@
                                     </p>
                                 </div>
                             </div>
-                            <div class="row row-padded-xl">
+                            <div class="row row-padded-md">
                                 <div class="col-md-12">
                                     <h3><strong>About</strong></h3>
                                     <p>
@@ -41,7 +41,7 @@
                                     </p>
                                 </div>
                             </div>
-                            <div class="row row-padded-xl">
+                            <div class="row row-padded-md">
                                 <div class="col-md-2">
                                     <img class="img img-responsive img-center img-rounded" style="width:200px;" src="assets/img/ltortalking.jpeg">
                                 </div>

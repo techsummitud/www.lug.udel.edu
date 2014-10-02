@@ -38,7 +38,7 @@
                                     </p>
                                 </div>
                             </div>
-                            <div class="row" style="margin-top:100px; margin-bottom: 40px;">
+                            <div class="row" style="margin-top:80px; margin-bottom: 40px;">
                                 <div class="col-md-4">
                                     <img class="img img-responsive img-center callout" src="http://placehold.it/300x250">
                                     <h3 class="text-center">Someone, <strong>Treasurer</strong></h3>

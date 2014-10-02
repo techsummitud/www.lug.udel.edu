@@ -16,7 +16,7 @@
             <div class="panel panel-default">
                 <div class="panel-body">
                     <h1 class="text-center"><strong>About Us</strong></h1>
-                    <div class="row row-padded-xl">
+                    <div class="row row-padded-lg">
                         <div class="col-md-6">
                             <div class="text-center img img-circle"><span class="glyphicon glyphicon-calendar" style="font-size:65pt;"></span></div>
                             <h3><strong>Meetings</strong></h3>
