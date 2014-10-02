@@ -1,0 +1,30 @@
+* {
+	font-family: "Source Code Pro";
+}
+#logo {
+	width: 100px;
+	margin: 0 0 0 20px;
+}
+.sidebar {
+	position: fixed;
+	width: 220px;
+	top: 0;
+	bottom: 0;
+	left: 25px;
+	background-color: #fff;
+}
+.sidebar ul {
+	list-style: none;
+	margin: 0 0 0 0;
+}
+.mainwrapper {
+	position: relative;
+	width: auto;
+	margin-left: 220px;
+	max-width: 1000px;
+}
+.topcontainer {
+	position: relative;
+	margin: 0;
+	padding: 0;
+}
