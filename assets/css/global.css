@@ -18,7 +18,7 @@ body{
     margin-bottom:20px;
     text-align: center;
     color: #f8f8f8;
-    background: url(../img/ud_banner2.jpg) no-repeat center center;
+    background: url(../img/banner2.jpg) no-repeat center center;
     background-size: cover;
 }
 
@@ -28,7 +28,7 @@ body{
     margin-bottom:20px;
     text-align: center;
     color: #f8f8f8;
-    background: url(../img/ud_banner.jpg) no-repeat center center;
+    background: url(../img/banner.jpg) no-repeat center center;
     background-size: cover;
 }
 
@@ -38,7 +38,17 @@ body{
     margin-bottom:20px;
     text-align: center;
     color: #f8f8f8;
-    background: url(../img/ud_banner2.jpg) no-repeat center center;
+    background: url(../img/banner2.jpg) no-repeat center center;
+    background-size: cover;
+}
+
+.intro-header-alt3 {
+    padding-top: 200px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
+    padding-bottom: 100px;
+    margin-bottom:20px;
+    text-align: center;
+    color: #f8f8f8;
+    background: url(../img/banner3.jpg) no-repeat center center;
     background-size: cover;
 }
 

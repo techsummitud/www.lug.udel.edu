@@ -13,7 +13,7 @@
                         <li class="active"><a href="/index.php">Home</a></li>
                     </ol>
 
-                    <div class="intro-header img-rounded">
+                    <div class="intro-header-alt3 img-rounded">
                         <div class="container">
                             <div class="row">
                                 <div class="col-md-10 col-md-offset-1">
