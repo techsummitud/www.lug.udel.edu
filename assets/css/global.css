@@ -12,44 +12,30 @@ body{
     //background-color:#DEDEDE;
 }
 
-.intro-header {
+.header {
     padding-top: 200px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
     padding-bottom: 100px;
+    margin-top: 10px;
     margin-bottom:20px;
     text-align: center;
     color: #f8f8f8;
-    background: url(../img/banner2.jpg) no-repeat center center;
     background-size: cover;
 }
 
-.intro-header-alt {
-    padding-top: 200px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
-    padding-bottom: 100px;
-    margin-bottom:20px;
-    text-align: center;
-    color: #f8f8f8;
+.header-image{
+    background: url(../img/banner2.jpg) no-repeat center center;
+}
+
+.header-image-2 {
     background: url(../img/banner.jpg) no-repeat center center;
-    background-size: cover;
 }
 
-.intro-header-alt2 {
-    padding-top: 200px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
-    padding-bottom: 100px;
-    margin-bottom:20px;
-    text-align: center;
-    color: #f8f8f8;
+.header-image-3 {
     background: url(../img/banner2.jpg) no-repeat center center;
-    background-size: cover;
 }
 
-.intro-header-alt3 {
-    padding-top: 200px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
-    padding-bottom: 100px;
-    margin-bottom:20px;
-    text-align: center;
-    color: #f8f8f8;
+.header-image-4 {
     background: url(../img/banner3.jpg) no-repeat center center;
-    background-size: cover;
 }
 
 .intro-wrapper{
@@ -59,13 +45,6 @@ body{
 
 .intro-message{
     opacity:1.0;
-}
-
-.banner {
-    padding: 100px 0;
-    color: #f8f8f8;
-    background: url(../img/fedora.png) no-repeat center center;
-    background-size: cover;
 }
 
 .callout{
@@ -117,9 +96,17 @@ body{
 }
 
 blockquote{
-    font-size: 12pt;
+    font-size: 10pt;
 }
 
 #main-nav{
     margin-top:18px;
+}
+
+.debug-bg{
+    background-color:purple;
+}
+
+.debug-bg-2{
+    background-color:green;
 }

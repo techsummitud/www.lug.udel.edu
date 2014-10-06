@@ -6,23 +6,24 @@
     </head>
     <body>
         <div class="container">
+            
+            <div class="header header-image-4 img-rounded">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-10 col-md-offset-1">
+                            <div class="intro-message">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
             <?php include 'navbar.php'; ?>
             <div class="row">
                 <div class="col-md-12">
                     <ol class="breadcrumb">
                         <li class="active"><a href="/index.php">Home</a></li>
                     </ol>
-
-                    <div class="intro-header-alt3 img-rounded">
-                        <div class="container">
-                            <div class="row">
-                                <div class="col-md-10 col-md-offset-1">
-                                    <div class="intro-message">
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
 
                     <div class="panel panel-default">
                         <div class="panel-body">
@@ -58,7 +59,7 @@
                                     <img class="img img-responsive img-center img-rounded" style="width:200px;" src="assets/img/ltortalking.jpeg">
                                 </div>
                                 <div class="col-md-10">
-                                    <blockquote class="pull-left">
+                                    <blockquote class="pull-left quote-size">
                                         <p>"To kind of explain what Linux is, you have to explain what an operating system is. 
                                             And the thing about an operating system is that you're never ever supposed to see it. 
                                             Because nobody really uses an operating system; people use programs on their computer. 
