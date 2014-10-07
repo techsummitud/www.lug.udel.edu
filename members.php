@@ -7,6 +7,18 @@
     <body>
         <!-- Nav bar -->
         <div class="container">
+
+            <div class="header header-image-4 img-rounded">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-10 col-md-offset-1">
+                            <div class="intro-message">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
             <?php include 'navbar.php'; ?>
             <ol class="breadcrumb">
                 <li class=""><a href="/index.php">Home</a></li>
@@ -23,7 +35,7 @@
                     </div>
                 </div>
             </div>
-            
+
             <div class="row">
                 <div class="col-md-12">
                     <div class="panel panel-default">
