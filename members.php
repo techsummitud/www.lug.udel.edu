@@ -80,7 +80,7 @@
                                     </p>
                                 </div>
                                 <div class="col-md-4">
-                                    <img class="img img-responsive img-center callout" src="http://placehold.it/300x250">
+                                    <img class="img img-responsive img-center callout" src="https://upload.wikimedia.org/wikipedia/commons/f/f7/Richard_Matthew_Stallman.jpeg">
                                     <h3 class="text-center">You, <strong>Board Member</strong></h3>
                                     <p class="text-center">
                                         Board members have more responsibilities but more power than regular members. You don't have to be in a leadership position to be a board member!
