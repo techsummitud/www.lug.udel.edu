@@ -1,3 +1,6 @@
-This repository will be used to hold the current website for the Linux Users' Group at the University of Delaware. Right now, it has some skeleton html/css.
+# LUG@UD Website
 
-This branch is Jacob Aimino's Cool Cat bootstrap branch
+This repository is used to hold the current website for the Linux Users' Group at the University of Delaware.
+You can view this website live at [www.lug.udel.edu](http://www.lug.udel.edu).
+
+This branch was started by Jacob Aimino, and uses Twitter's bootstrap UI toolkit.
