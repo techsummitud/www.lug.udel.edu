@@ -31,7 +31,6 @@
                             <div class="text-center"><span class="glyphicon glyphicon-envelope" style="font-size:92pt;"></span></div>
                         </div>
                         <div class="col-md-10">
-                            <h3><strong>Contact Information</strong></h3>
                             <p style="line-height: 30px;">
 			The easiest way to get in touch with our board is via our IRC server, located at <a href="irc://irc.lug.udel.edu">irc.lug.udel.edu</a>. Join #lug, and talk to us about whatever you'd like!
 														</p>

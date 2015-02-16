@@ -27,7 +27,8 @@
                     <ul class="dropdown-menu">
                         <li><a href="irc://irc.lug.udel.edu/lug">IRC</a></li>
                         <li><a href="https://www.reddit.com/r/udpi">Subreddit</a></li>
-			<li><a href="https://studentcentral.udel.edu/organization/linuxusersgroup">StudentCentral</a></li>
+												<li><a href="https://studentcentral.udel.edu/organization/linuxusersgroup">StudentCentral</a></li>
+												<li><a href="https://github.com/techsummitud/www.lug.udel.edu">Site on Github</a></li>
                     </ul>
                 </li>
                 <li><a href="/contact.php">Contact</a></li>
