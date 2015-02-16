@@ -7,7 +7,7 @@
     <body>
         <div class="container">
             
-            <div class="header header-image-4 img-rounded">
+            <div class="header header-image-5 img-rounded">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-10 col-md-offset-1">

@@ -38,6 +38,10 @@ body{
     background: url(../img/banner3.jpg) no-repeat center center;
 }
 
+.header-image-5 {
+    background: url(../img/evans.jpg) no-repeat center center;
+}
+
 .intro-wrapper{
     background-color:black;
     opacity:0.8;
