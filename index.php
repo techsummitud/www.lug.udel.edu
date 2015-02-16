@@ -34,23 +34,19 @@
                                     </h1>
                                     <h3 class="row-padded-lg"><strong>Mission</strong></h3>
                                     <p>
-                                        We serve Linux users who live in or around the small state of Delaware, as well as the University of Delaware Newark campus. 
-                                    </p>
-                                    <p>
-                                        All Linux users are welcome to our meetings and mailing lists regardless of experience or skill. 
-                                        Please see below to find out how to come to our meetings.
+																				We are a group of technology and open-source software enthusiasts who live in the small state of Delaware. Much of our group activity revolves around the free and open-source operating system GNU/Linux, but we regularally explore many other technology-related topics. Our group is very welcoming of new members, regardless of your experience with the topics we cover. We all love learning, and love tinkering with new and exciting technologies. Come check us out sometime!
                                     </p>
                                 </div>
                             </div>
                             <div class="row row-padded-md">
                                 <div class="col-md-12">
-                                    <h3><strong>About</strong></h3>
+                                    <h3><strong>Meetings and Information</strong></h3>
                                     <p>
                                         LUG is a Registered Student Organization of the University of Delaware, and as such, officers are undergraduate and graduate students of UD. 
+                                        This does not, however, mean we close our doors to those outside the university. In fact, most of our membership are not students, but live in the surrounding community.
                                     </p>
                                     <p>
-                                        This does not, however, mean we close our doors to those outside the university. 
-                                        In fact, most of our membership are not students, but live in the surrounding community.
+																				We highly encourage you to attend one of our meetings to find out more about our group and what we can do together. More information about the meetings can be found on our <a href="/about.php">About</a> page.
                                     </p>
                                 </div>
                             </div>
