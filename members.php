@@ -43,7 +43,7 @@
                             <div class="row">
                                 <h1 class="text-center" style="margin-bottom: 100px;"><strong>Board Members</strong></h1>
                                 <div class="col-md-4 col-md-offset-2">
-                                    <img class="img img-responsive img-center callout" style="width:300px" src="/assets/img/jamie.jpg">
+                                    <img class="img img-responsive img-center callout" style="width:300px" src="/assets/img/jamie_900x750.png">
                                     <h3 class="text-center">Jamie Luck, <strong>President</strong></h3>
                                     <p class="text-center">
                                         President's responsibilities include keeping officers and members interested in LUG. 
