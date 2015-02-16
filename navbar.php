@@ -26,6 +26,7 @@
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown">Quick Links <b class="caret"></b></a>
                     <ul class="dropdown-menu">
                         <li><a href="irc://irc.lug.udel.edu/lug">IRC</a></li>
+                        <li><a href="http://mirror.lug.udel.edu/pub">Mirror</a></li>
                         <li><a href="https://www.reddit.com/r/udpi">Subreddit</a></li>
 												<li><a href="https://studentcentral.udel.edu/organization/linuxusersgroup">StudentCentral</a></li>
 												<li><a href="https://github.com/techsummitud/www.lug.udel.edu">Site on Github</a></li>
