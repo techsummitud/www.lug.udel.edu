@@ -56,8 +56,8 @@
 																<li>SSH Shell Server with many language runtimes</li>
 																<li>Raspberry Pi Cluster for parallel programming development</li>
 																<li>Web Hosting</li>
-																<li><span style="color:red;">Coming Soon!</span>Virtual Machine hosting</li>
-																<li><span style="color:red;">Coming Soon!</span>Docker Container hosting</li>
+																<li><span style="color:red;">Coming Soon!</span> Virtual Machine hosting</li>
+																<li><span style="color:red;">Coming Soon!</span> Docker Container hosting</li>
 															</ul>
 														</p>
                             <p>
