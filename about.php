@@ -33,26 +33,11 @@
                         <div class="col-md-10">
                             <h3><strong>Meetings</strong></h3>
                             <p style="line-height: 30px;">
-                                Meetings are held at the University of Delaware Newark Campus. Dates, times, and locations are announced as early as possible. 
-                                However, sometimes we have trouble reserving rooms and are forced to give quick notice. 
-                                Make certain you are subscribed to the lug-members mailing list to recieve information about upcoming meetings.
+			Meetings have historically been held in 204 Evans Hall at the University of Delaware's Newark campus. However, we occasionally meet elsewhere, and sometimes we have problems reserving the room. Make sure to <a href="http://lists.lug.udel.edu/mailman/listinfo/lug-members" alt="Click here to subscribe!">subscribe to the UD LUG mailing list</a> if you want to know when and where our meetings will take place.
                             </p>
                         </div>
                     </div>
-                    <div class="row row-padded-lg">
-                        <div class="col-md-10">
-                            <h3><strong>Test</strong></h3>
-                            <p>
-                                Meetings are held at the University of Delaware Newark Campus. Dates, times, and locations are announced as early as possible. 
-                                However, sometimes we have trouble reserving rooms and are forced to give quick notice. 
-                                Make certain you are subscribed to the lug-members mailing list to recieve information about upcoming meetings.
-                            </p>
-                        </div>
-                        <div class="col-md-2 img img-responsive">
-                            <div class="text-center"><span class="glyphicon glyphicon-book" style="font-size:92pt;"></span></div>
-                        </div>
-                    </div>
-                </div>
+               </div>
             </div>
         </div>
         <?php include 'footer.php'; ?>

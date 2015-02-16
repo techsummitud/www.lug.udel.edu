@@ -12,7 +12,7 @@
             <ul class="nav navbar-nav">
                 <li><a href="/about.php">About</a></li>
                 <li><a href="/members.php">Members</a></li>
-                <li class="dropdown">
+<!--                <li class="dropdown">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown">Projects <b class="caret"></b></a>
                     <ul class="dropdown-menu">
                         <li role="" class="dropdown-header">Current</li>
@@ -22,11 +22,12 @@
                         <li><a href="#">Lorem Ipsum</a></li>
                     </ul>
                 </li>
-                <li class="dropdown">
+-->                <li class="dropdown">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown">Quick Links <b class="caret"></b></a>
                     <ul class="dropdown-menu">
-                        <li><a href="#">IRC</a></li>
-                        <li><a href="#">Dunno</a></li>
+                        <li><a href="irc://irc.lug.udel.edu/lug">IRC</a></li>
+                        <li><a href="https://www.reddit.com/r/udpi">Subreddit</a></li>
+			<li><a href="https://studentcentral.udel.edu/organization/linuxusersgroup">StudentCentral</a></li>
                     </ul>
                 </li>
             </ul>
