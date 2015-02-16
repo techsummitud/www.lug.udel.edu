@@ -21,10 +21,6 @@
             <?php include 'navbar.php'; ?>
             <div class="row">
                 <div class="col-md-12">
-                    <ol class="breadcrumb">
-                        <li class="active"><a href="/index.php">Home</a></li>
-                    </ol>
-
                     <div class="panel panel-default">
                         <div class="panel-body">
                             <div class="row row-padded-md">

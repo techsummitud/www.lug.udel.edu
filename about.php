@@ -32,17 +32,17 @@
                         </div>
                         <div class="col-md-10">
                             <h3><strong>Meetings</strong></h3>
-                            <p style="line-height: 30px;">
+                            <p>
 			We hold meetings several times per month, to discuss club business, listen to a guest speaker, or simply have fun! We've featured guest speakers from many niches of the Computer Science industry and research space, with a current bent toward System Administration and Computer & Network Security. Feel free to <a href="/contact.php">contact us</a> if you are interested in speaking at an upcoming meeting!
 														</p>
 														<p>
 			We love getting suggestions for meeting ideas from members, so if there's anything you'd like to learn or practice related to Linux or Computer Science, feel free to let us know!
 														</p>
-                            <p style="line-height: 30px;">
+                            <p>
 			Meetings have historically been held in 204 Evans Hall at the University of Delaware's Newark campus. Make sure to <a href="http://lists.lug.udel.edu/mailman/listinfo/lug-members" alt="Click here to subscribe!">subscribe to the UD LUG mailing list</a> if you want to know when and where our meetings will take place.
                             </p>
                         </div>
-                    </div>
+										</div>
                </div>
             </div>
         </div>
