@@ -2,7 +2,7 @@
 <html lang="en">
     <head>
         <?php include "header.php" ?>
-        <title>LUG@UD - About</title>
+        <title>LUG@UD - Contact</title>
     </head>
     <body>
         <div class="container">
@@ -21,26 +21,23 @@
             <?php include 'navbar.php'; ?>
             <ol class="breadcrumb">
                 <li><a href="/index.php">Home</a></li>
-                <li class="active"><a href="/about.php">About</a></li>
+                <li class="active"><a href="/contact.php">Contact</a></li>
             </ol>
             <div class="panel panel-default">
                 <div class="panel-body">
-                    <h1 class="text-center"><strong>About Us</strong></h1>
+                    <h1 class="text-center"><strong>Contact Information</strong></h1>
                     <div class="row row-padded-lg">
                         <div class="col-md-2">
-                            <div class="text-center"><span class="glyphicon glyphicon-book" style="font-size:92pt;"></span></div>
+                            <div class="text-center"><span class="glyphicon glyphicon-envelope" style="font-size:92pt;"></span></div>
                         </div>
                         <div class="col-md-10">
-                            <h3><strong>Meetings</strong></h3>
+                            <h3><strong>Contact Information</strong></h3>
                             <p style="line-height: 30px;">
-			We hold meetings several times per month, to discuss club business, listen to a guest speaker, or simply have fun! We've featured guest speakers from many niches of the Computer Science industry and research space, with a current bent toward System Administration and Computer & Network Security. Feel free to <a href="/contact.php">contact us</a> if you are interested in speaking at an upcoming meeting!
+			The easiest way to get in touch with our board is via our IRC server, located at <a href="irc://irc.lug.udel.edu">irc.lug.udel.edu</a>. Join #lug, and talk to us about whatever you'd like!
 														</p>
 														<p>
-			We love getting suggestions for meeting ideas from members, so if there's anything you'd like to learn or practice related to Linux or Computer Science, feel free to let us know!
+			Alternately, you can send an email to our <a href="http://lists.lug.udel.edu/mailman/listinfo/lug-members" alt="Click here to subscribe!">mailing list</a> to start a discussion!
 														</p>
-                            <p style="line-height: 30px;">
-			Meetings have historically been held in 204 Evans Hall at the University of Delaware's Newark campus. Make sure to <a href="http://lists.lug.udel.edu/mailman/listinfo/lug-members" alt="Click here to subscribe!">subscribe to the UD LUG mailing list</a> if you want to know when and where our meetings will take place.
-                            </p>
                         </div>
                     </div>
                </div>
