@@ -27,10 +27,7 @@
                 <div class="panel-body">
                     <h1 class="text-center"><strong>About Us</strong></h1>
                     <div class="row row-padded-lg">
-                        <div class="col-md-2">
-                            <div class="text-center"><span class="glyphicon glyphicon-family" style="font-size:92pt;"></span></div>
-                        </div>
-                        <div class="col-md-10">
+                        <div class="col-md-12">
                             <h3><strong>Meetings</strong></h3>
                             <p>
 			We hold meetings several times per month, to discuss club business, listen to a guest speaker, or simply have fun! We've featured guest speakers from many niches of the Computer Science industry and research space, with a current bent toward System Administration and Computer & Network Security. Feel free to <a href="/contact.php">contact us</a> if you are interested in speaking at an upcoming meeting!
@@ -42,10 +39,7 @@
 			Meetings have historically been held in 204 Evans Hall at the University of Delaware's Newark campus. Make sure to <a href="http://lists.lug.udel.edu/mailman/listinfo/lug-members" alt="Click here to subscribe!">subscribe to the UD LUG mailing list</a> if you want to know when and where our meetings will take place.
                             </p>
                         </div>
-                        <div class="col-md-2">
-                            <div class="text-center"><span class="glyphicon glyphicon-server" style="font-size:92pt;"></span></div>
-                        </div>
-                        <div class="col-md-10">
+                        <div class="col-md-12">
                             <h3><strong>Services</strong></h3>
                             <p>
 			In addition to community support and development, the LUG provides several services to members and the general public.
