@@ -71,8 +71,8 @@
                                     </p>
                                 </div>
                                 <div class="col-md-4">
-                                    <img class="img img-responsive img-center callout" src="http://placehold.it/300x250">
-                                    <h3 class="text-center">Ryan Keeley, <strong>Secretary</strong></h3>
+                                    <img class="img img-responsive img-center callout" src="/assets/img/will800x750.jpg">
+                                    <h3 class="text-center">Will Weber, <strong>Secretary</strong></h3>
                                     <p class="text-center">
                                         The Secretary fulfills the requests for assistance by any of the other previous officers. 
                                         He or she is willing to lend a hand when one is required, 
