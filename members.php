@@ -53,7 +53,7 @@
                                 </div>
                                 <div class="col-md-4">
                                     <img class="img img-responsive img-center callout" src="http://placehold.it/300x250">
-                                    <h3 class="text-center">Jake Heffernan, <strong>Vice President</strong></h3>
+                                    <h3 class="text-center">Byron Lambrou, <strong>Vice President</strong></h3>
                                     <p class="text-center">
                                         The Vice President of Membership organizes the mailing list, and keeps track of new members. 
                                         Their main gig is Activities Night, where he/she invites people to join the LUG, and makes sure they come to meetings. 
@@ -71,7 +71,7 @@
                                 </div>
                                 <div class="col-md-4">
                                     <img class="img img-responsive img-center callout" src="http://placehold.it/300x250">
-                                    <h3 class="text-center">Byron Lambrou, <strong>Secretary</strong></h3>
+                                    <h3 class="text-center">Jake Heffernan, <strong>Secretary</strong></h3>
                                     <p class="text-center">
                                         The Secretary fulfills the requests for assistance by any of the other previous officers. 
                                         He or she is willing to lend a hand when one is required, 
