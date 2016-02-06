@@ -43,8 +43,8 @@
                             <div class="row">
                                 <h1 class="text-center" style="margin-bottom: 100px;"><strong>Board Members</strong></h1>
                                 <div class="col-md-4 col-md-offset-2">
-                                    <img class="img img-responsive img-center callout" style="width:300px" src="/assets/img/jamie_900x750.png">
-                                    <h3 class="text-center">Jamie Luck, <strong>President</strong></h3>
+                                    <img class="img img-responsive img-center callout" style="width:300px" src="/assets/img/will_460x460.jpg">
+                                    <h3 class="text-center">Will Weber, <strong>President</strong></h3>
                                     <p class="text-center">
                                         President's responsibilities include keeping officers and members interested in LUG. 
                                         He or she organizes meetings, and introduces the meeting if someone else is giving a presentation. 
@@ -53,7 +53,7 @@
                                 </div>
                                 <div class="col-md-4">
                                     <img class="img img-responsive img-center callout" src="http://placehold.it/300x250">
-                                    <h3 class="text-center">Ian Campbell, <strong>Vice President</strong></h3>
+                                    <h3 class="text-center">Jake Heffernan, <strong>Vice President</strong></h3>
                                     <p class="text-center">
                                         The Vice President of Membership organizes the mailing list, and keeps track of new members. 
                                         Their main gig is Activities Night, where he/she invites people to join the LUG, and makes sure they come to meetings. 
@@ -64,15 +64,14 @@
                             <div class="row" style="margin-top:80px; margin-bottom: 40px;">
                                 <div class="col-md-4">
                                     <img class="img img-responsive img-center callout" src="http://placehold.it/300x250">
-                                    <h3 class="text-center">Jay Thakkar, <strong>Treasurer</strong></h3>
+                                    <h3 class="text-center">Riley Shaw, <strong>Treasurer</strong></h3>
                                     <p class="text-center">
                                         The Treasurer keeps track of purchases, organizes our budget, and makes certain people get reimbursed for their time. 
-                                        He/She also orders paraphernalia for the group after a design is approved by the members.
                                     </p>
                                 </div>
                                 <div class="col-md-4">
-                                    <img class="img img-responsive img-center callout" src="/assets/img/will800x750.jpg">
-                                    <h3 class="text-center">Will Weber, <strong>Secretary</strong></h3>
+                                    <img class="img img-responsive img-center callout" src="http://placehold.it/300x250">
+                                    <h3 class="text-center">Byron Lambrou, <strong>Secretary</strong></h3>
                                     <p class="text-center">
                                         The Secretary fulfills the requests for assistance by any of the other previous officers. 
                                         He or she is willing to lend a hand when one is required, 
@@ -83,7 +82,7 @@
                                     <img class="img img-responsive img-center callout" src="https://upload.wikimedia.org/wikipedia/commons/f/f7/Richard_Matthew_Stallman.jpeg">
                                     <h3 class="text-center">You, <strong>Board Member</strong></h3>
                                     <p class="text-center">
-                                        Board members have more responsibilities but more power than regular members. You don't have to be in a leadership position to be a board member!
+                                        Board members have more responsibilities and power than regular members. You don't have to be in a leadership position to be a board member!
                                         You could work on our server maintenence, be our webmaster, or significantly contribute to the club in some other way to become a board member. 
                                         You can find out more about how to become a board member in our <a href="/about.php">about page</a>.
                                     </p>
