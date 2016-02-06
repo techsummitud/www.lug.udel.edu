@@ -52,7 +52,7 @@
                                     </p>
                                 </div>
                                 <div class="col-md-4">
-                                    <img class="img img-responsive img-center callout" src="http://placehold.it/300x250">
+                                    <img class="img img-responsive img-center callout" src="/assets/img/Byron_460x460.jpg">
                                     <h3 class="text-center">Byron Lambrou, <strong>Vice President</strong></h3>
                                     <p class="text-center">
                                         The Vice President of Membership organizes the mailing list, and keeps track of new members. 
